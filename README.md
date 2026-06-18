@@ -1,15 +1,15 @@
-# Sales & Revenue Analysis Dashboard
+# Customer Segmentation Dashboard
 
 ## Project Overview
 
-This project is an interactive Sales & Revenue Analysis Dashboard developed using Python, Streamlit, Pandas, and Plotly.
+The Customer Segmentation Dashboard is a Machine Learning and Data Analytics project developed using Python, Streamlit, Pandas, Plotly, and Scikit-learn.
 
-The dashboard helps businesses analyze:
-- Sales Performance
-- Revenue Trends
-- Profit Analysis
-- Top Products
-- Region-wise Performance
+This project segments customers into different groups based on:
+- Annual Income
+- Spending Score
+- Customer Behavior
+
+The dashboard helps businesses understand customer purchasing patterns and improve targeted marketing strategies.
 
 ---
 
@@ -19,28 +19,30 @@ The dashboard helps businesses analyze:
 - Streamlit
 - Pandas
 - Plotly
+- Scikit-learn
 - CSV Dataset
 
 ---
 
 # Features
 
-✅ KPI Cards  
-✅ Interactive Charts  
-✅ Region Filters  
-✅ Category Filters  
-✅ Revenue Trend Analysis  
-✅ Product Performance Analysis  
-✅ Download Filtered Data  
+✅ Customer Segmentation using KMeans Clustering  
+✅ Interactive Dashboard  
+✅ KPI Metrics  
+✅ Customer Behavior Analysis  
+✅ Scatter Plot Visualization  
+✅ Age Distribution Analysis  
+✅ Cluster-wise Customer Count  
+✅ Download Segmented Data  
 
 ---
 
 # Project Structure
 
 ```text
-SalesDashboard/
+CustomerSegmentation/
 │
 ├── app.py
-├── sales_data.csv
+├── customer_data.csv
 ├── requirements.txt
 └── README.md
