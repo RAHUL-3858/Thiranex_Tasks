@@ -1,0 +1,16 @@
+Date,Region,Product,Category,Units Sold,Revenue,Profit
+2026-01-01,North,Laptop,Electronics,5,250000,50000
+2026-01-02,South,Mobile,Electronics,10,150000,30000
+2026-01-03,East,Tablet,Electronics,8,80000,15000
+2026-01-04,West,Headphones,Accessories,15,45000,10000
+2026-01-05,North,Keyboard,Accessories,20,40000,8000
+2026-01-06,South,Mouse,Accessories,25,25000,5000
+2026-01-07,East,Laptop,Electronics,4,200000,40000
+2026-01-08,West,Mobile,Electronics,12,180000,35000
+2026-01-09,North,Tablet,Electronics,6,60000,12000
+2026-01-10,South,Headphones,Accessories,18,54000,11000
+2026-01-11,East,Keyboard,Accessories,22,44000,9000
+2026-01-12,West,Mouse,Accessories,30,30000,6000
+2026-01-13,North,Laptop,Electronics,7,350000,70000
+2026-01-14,South,Mobile,Electronics,11,165000,32000
+2026-01-15,East,Tablet,Electronics,9,90000,18000

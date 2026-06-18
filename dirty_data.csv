@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,Performance
+1,Rahul,IT,50000,Good
+2,Anjali,HR,45000,Excellent
+3,Rahul,IT,,Good
+4,Vikram,Finance,60000,
+5,Priya,HR,45000,Excellent
+6,Anjali,HR,45000,Excellent
+7,Arjun,IT,52000,Good
+8,,Finance,58000,Average
+9,Sneha,Marketing,47000,Good
+10,Sneha,Marketing,47000,Good
